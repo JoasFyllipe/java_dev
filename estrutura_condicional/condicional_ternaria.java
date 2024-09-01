@@ -7,13 +7,13 @@ public class condicional_ternaria {
     //sintaxe: (condição) ? valor_se_verdadeiro : valor_se_falso
 
     //condicional if/else
-    double preco = 34.5;
+    double preco1 = 34.5;
     double desconto;
-    if(preco < 20.0){
-        desconto = preco * 0.1;
+    if(preco1 < 20.0){
+        desconto = preco1 * 0.1;
     }
     else {
-        desconto = preco * 0.05;
+        desconto = preco1 * 0.05;
     }
     System.out.println(desconto);
 
