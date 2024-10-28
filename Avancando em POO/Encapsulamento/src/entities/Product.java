@@ -15,7 +15,6 @@ public class Product {
     }
     public Product( String name, double price) {
         this.price = price;
-        this.quantity = quantity;
         this.name = name;
     }
 
