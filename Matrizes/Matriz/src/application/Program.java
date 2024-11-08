@@ -16,7 +16,7 @@ public class Program {
             }
         }
         System.out.println("Main diagonal:");
-        for (int i=0; i< mat.length; i++){ // informa os valores da diagonal principal
+        for (int i=0; i< mat.length; i++){ // informa os valores da diagonal principal, onde coluna == linha
             System.out.print(mat[i][i]+ " ");
         }
         System.out.println();
