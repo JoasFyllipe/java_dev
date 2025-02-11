@@ -1,2 +1,2 @@
 # java_dev
-## Repositório destinado aos estudos de JAVA
+## Repositório destinado aos estudos de JAVA.
