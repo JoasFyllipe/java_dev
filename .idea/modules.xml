@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Tratamento de Excecoes/Criando_Excecao_Personalizada/Criando_Excecao_Personalizada.iml" filepath="$PROJECT_DIR$/Tratamento de Excecoes/Criando_Excecao_Personalizada/Criando_Excecao_Personalizada.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tratamento de Excecoes/Exercicio fixacao/Exercicio fixacao.iml" filepath="$PROJECT_DIR$/Tratamento de Excecoes/Exercicio fixacao/Exercicio fixacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios Polimorfismo/Exercicio1/Exercicio1.iml" filepath="$PROJECT_DIR$/Exercicios Polimorfismo/Exercicio1/Exercicio1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios Polimorfismo/Exercicio2/Exercicio2.iml" filepath="$PROJECT_DIR$/Exercicios Polimorfismo/Exercicio2/Exercicio2.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicios_Classes/Exercicio_01/Exercicio_01.iml" filepath="$PROJECT_DIR$/exercicios_Classes/Exercicio_01/Exercicio_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicios_Classes/Exercicio_02/Exercicio_02.iml" filepath="$PROJECT_DIR$/exercicios_Classes/Exercicio_02/Exercicio_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios Polimorfismo/Exercicios Polimorfismo.iml" filepath="$PROJECT_DIR$/Exercicios Polimorfismo/Exercicios Polimorfismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heranca/Heranca.iml" filepath="$PROJECT_DIR$/Heranca/Heranca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tratamento de Excecoes/Tratamento de Excecoes.iml" filepath="$PROJECT_DIR$/Tratamento de Excecoes/Tratamento de Excecoes.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicios_Classes/exercicios_Classes.iml" filepath="$PROJECT_DIR$/exercicios_Classes/exercicios_Classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/introducao_OO/introducao_OO.iml" filepath="$PROJECT_DIR$/introducao_OO/introducao_OO.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_dev.iml" filepath="$PROJECT_DIR$/java_dev.iml" />
